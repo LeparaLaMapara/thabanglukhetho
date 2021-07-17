@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/thabanglukhetho/static/css/main.6df5f48c.chunk.css",
-    "main.js": "/thabanglukhetho/static/js/main.62bf85b9.chunk.js",
-    "main.js.map": "/thabanglukhetho/static/js/main.62bf85b9.chunk.js.map",
+    "main.js": "/thabanglukhetho/static/js/main.eabacff6.chunk.js",
+    "main.js.map": "/thabanglukhetho/static/js/main.eabacff6.chunk.js.map",
     "runtime-main.js": "/thabanglukhetho/static/js/runtime-main.dd40639a.js",
     "runtime-main.js.map": "/thabanglukhetho/static/js/runtime-main.dd40639a.js.map",
     "static/css/2.d9a73aca.chunk.css": "/thabanglukhetho/static/css/2.d9a73aca.chunk.css",
@@ -31,6 +31,6 @@
     "static/css/2.d9a73aca.chunk.css",
     "static/js/2.2a603597.chunk.js",
     "static/css/main.6df5f48c.chunk.css",
-    "static/js/main.62bf85b9.chunk.js"
+    "static/js/main.eabacff6.chunk.js"
   ]
 }
