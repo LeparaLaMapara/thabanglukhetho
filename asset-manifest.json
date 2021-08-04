@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/static/css/main.df34bdb0.chunk.css",
+    "main.js": "/static/js/main.eabacff6.chunk.js",
+    "main.js.map": "/static/js/main.eabacff6.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.25666949.js",
+    "runtime-main.js.map": "/static/js/runtime-main.25666949.js.map",
+    "static/css/2.d9a73aca.chunk.css": "/static/css/2.d9a73aca.chunk.css",
+    "static/js/2.2a603597.chunk.js": "/static/js/2.2a603597.chunk.js",
+    "static/js/2.2a603597.chunk.js.map": "/static/js/2.2a603597.chunk.js.map",
+    "static/js/3.d828d82e.chunk.js": "/static/js/3.d828d82e.chunk.js",
+    "static/js/3.d828d82e.chunk.js.map": "/static/js/3.d828d82e.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.d9a73aca.chunk.css.map": "/static/css/2.d9a73aca.chunk.css.map",
+    "static/css/main.df34bdb0.chunk.css.map": "/static/css/main.df34bdb0.chunk.css.map",
+    "static/js/2.2a603597.chunk.js.LICENSE.txt": "/static/js/2.2a603597.chunk.js.LICENSE.txt",
+    "static/media/TL.5a7cbbf5.png": "/static/media/TL.5a7cbbf5.png",
+    "static/media/about.aee0f771.png": "/static/media/about.aee0f771.png",
+    "static/media/coviz.4c8b1f57.png": "/static/media/coviz.4c8b1f57.png",
+    "static/media/dside.91115fc6.png": "/static/media/dside.91115fc6.png",
+    "static/media/style.css": "/static/media/pre.d4812f51.svg",
+    "static/media/home-main.541f8179.svg": "/static/media/home-main.541f8179.svg",
+    "static/media/me.af879ee7.png": "/static/media/me.af879ee7.png",
+    "static/media/msc.850c3cdc.png": "/static/media/msc.850c3cdc.png",
+    "static/media/news.5fe827ac.png": "/static/media/news.5fe827ac.png",
+    "static/media/rc.aa67f47a.png": "/static/media/rc.aa67f47a.png",
+    "static/media/thabang_resume.0ecf759e.pdf": "/static/media/thabang_resume.0ecf759e.pdf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.25666949.js",
+    "static/css/2.d9a73aca.chunk.css",
+    "static/js/2.2a603597.chunk.js",
+    "static/css/main.df34bdb0.chunk.css",
+    "static/js/main.eabacff6.chunk.js"
+  ]
+}
